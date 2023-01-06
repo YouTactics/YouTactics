@@ -2,3 +2,5 @@ Hello, this is my Git Hub and yes if your reading this it means you went on my p
 
 📥Getting rickrolled a lot? Get this extension.  (No virus)
 URL:  https://antirickroll.com/
+
+I also am  a scripter and I use VS code, Python and LUA.
